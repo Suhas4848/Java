@@ -44,9 +44,6 @@ class SavingAccount1
 			Account s1 = new Account();
 			Account s2 = new Account();
 
-
-	
-	
 			s1.getData();
 			s2.getData();  
 			s1.ModifyInterestRate();
