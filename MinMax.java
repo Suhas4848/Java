@@ -9,7 +9,8 @@ class MinMax{
         for (int i = 0; i < arr.length; i++) {
             arr[i]= sc.nextInt();
         }
-
+        sc.close();
+        
         System.out.println(" ");
         System.out.println("Array elements are ");
         for (int i = 0; i < arr.length; i++) {
